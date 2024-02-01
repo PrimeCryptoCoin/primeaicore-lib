@@ -1,0 +1,68 @@
+{
+  "name": "primeaicore-lib",
+  "version": "1.0.3",
+  "description": "A pure and powerful JavaScript primeaicoin library.",
+  "author": "Under",
+  "main": "index.js",
+  "scripts": {
+    "lint": "gulp lint",
+    "test": "gulp test:node",
+    "coverage": "gulp coverage",
+    "build": "gulp"
+  },
+  "contributors": [
+    {
+      "name": "Under",
+      "email": ""
+    },
+    {
+      "name": "Blondfrogs",
+      "email": ""
+    },
+    {
+      "name": "Traysi",
+      "email": ""
+    }
+  ],
+  "keywords": [
+    "primeaicoin",
+    "transaction",
+    "address",
+    "p2p",
+    "ecies",
+    "cryptocurrency",
+    "blockchain",
+    "payment",
+    "bip21",
+    "bip32",
+    "bip37",
+    "bip69",
+    "bip70",
+    "multisig"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AIPowerGrid/primeaicore-lib.git"
+  },
+  "browser": {
+    "request": "browser-request"
+  },
+  "dependencies": {
+    "bn.js": "4.11.8",
+    "bs58": "4.0.1",
+    "buffer-compare": "1.1.1",
+    "elliptic": "6.4.0",
+    "inherits": "2.0.1",
+    "lodash": "^4.17.15",
+    "node-x16r": "github:underdarkskies/node-x16r",
+    "node-x16rv2": "github:underdarkskies/x16rv2_hash"
+  },
+  "devDependencies": {
+    "brfs": "^1.2.0",
+    "chai": "^1.10.0",
+    "gulp": "^3.8.10",
+    "primeaicore-build": "github:AIPowerGrid/primeaicore-build",
+    "sinon": "^1.13.0"
+  },
+  "license": "MIT"
+}
