@@ -55191,7 +55191,7 @@ module.exports={
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/AIPowerGrid/primeaicore-lib.git"
+    "url": "https://github.com/PrimeCryptoCoin/primeaicore-lib.git"
   },
   "browser": {
     "request": "browser-request"
@@ -55210,7 +55210,7 @@ module.exports={
     "brfs": "^1.2.0",
     "chai": "^1.10.0",
     "gulp": "^3.8.10",
-    "primeaicore-build": "github:AIPowerGrid/primeaicore-build",
+    "primeaicore-build": "github:PrimeCryptoCoin/primeaicore-build",
     "sinon": "^1.13.0"
   },
   "license": "MIT"

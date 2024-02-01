@@ -35,14 +35,14 @@ To get started, just `npm install primeaicore` or `bower install primeaicore`.
 
 Some functionality is implemented as a module that can be installed separately:
 
-* [Payment Protocol Support](https://github.com/AIPowerGrid/primeaicore-payment-protocol)
-* [Peer to Peer Networking](https://github.com/AIPowerGrid/primeaicore-p2p)
-* [primeaicoin Core JSON-RPC](https://github.com/AIPowerGrid/primeaid-rpc)
-* [Payment Channels](https://github.com/AIPowerGrid/primeaicore-channel)
-* [Mnemonics](https://github.com/AIPowerGrid/primeaicore-mnemonic)
-* [Elliptical Curve Integrated Encryption Scheme](https://github.com/AIPowerGrid/primeaicore-ecies)
-* [Blockchain Explorers](https://github.com/AIPowerGrid/primeaicore-explorers)
-* [Signed Messages](https://github.com/AIPowerGrid/primeaicore-message)
+* [Payment Protocol Support](https://github.com/PrimeCryptoCoin/primeaicore-payment-protocol)
+* [Peer to Peer Networking](https://github.com/PrimeCryptoCoin/primeaicore-p2p)
+* [primeaicoin Core JSON-RPC](https://github.com/PrimeCryptoCoin/primeaid-rpc)
+* [Payment Channels](https://github.com/PrimeCryptoCoin/primeaicore-channel)
+* [Mnemonics](https://github.com/PrimeCryptoCoin/primeaicore-mnemonic)
+* [Elliptical Curve Integrated Encryption Scheme](https://github.com/PrimeCryptoCoin/primeaicore-ecies)
+* [Blockchain Explorers](https://github.com/PrimeCryptoCoin/primeaicore-explorers)
+* [Signed Messages](https://github.com/PrimeCryptoCoin/primeaicore-message)
 
 # Examples
 
